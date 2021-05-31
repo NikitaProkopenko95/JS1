@@ -1,0 +1,20 @@
+let a1 = (5/3);
+let a2 = (3/5);
+let a3 = (5 + '3');
+let a4 = ('5' - 3);
+let a5 = (75 + 'кг');
+let a6 = (785 * 653);
+let a7 = (100 / 25);
+let a8 = (0 * 0);
+let a9 = (0 / 2);
+let a10 = (89 / 0);
+let a11 = (98 + 2);
+let a12 = (5 – 98);
+let a13 = ((8 + 56 * 4) / 5);
+let a14 = ((9 - 12) * 7 / (5 + 2));
+let a15 = (+"123");
+let a16 = (1 || 0);
+let a17 = (false || true);
+let a18 = (true > 0);
+
+console.log (typeof a1);
